@@ -16,7 +16,7 @@ ext {
     assertj = '3.25.3'
     junit = '5.10.2'
     logBack = '1.5.6'
-    webFlux = '6.1.6'
+    webFlux = '6.2.0'
     jackson = '2.17.1'
     jaxb = '4.0.5'
     guava = '33.2.0-jre'
