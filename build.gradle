@@ -13,7 +13,7 @@ repositories {
 }
 
 ext {
-    assertj = '3.25.3'
+    assertj = '3.26.3'
     junit = '5.10.2'
     logBack = '1.5.12'
     webFlux = '6.2.0'
