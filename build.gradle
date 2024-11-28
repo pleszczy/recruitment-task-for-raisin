@@ -17,7 +17,7 @@ ext {
     junit = '5.10.2'
     logBack = '1.5.12'
     webFlux = '6.2.0'
-    jackson = '2.18.1'
+    jackson = '2.18.2'
     jaxb = '4.0.5'
     guava = '33.3.1-jre'
 }
