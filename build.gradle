@@ -14,7 +14,7 @@ repositories {
 
 ext {
     assertj = '3.25.3'
-    junit = '5.10.2'
+    junit = '5.11.4'
     logBack = '1.5.12'
     webFlux = '6.2.0'
     jackson = '2.18.1'
